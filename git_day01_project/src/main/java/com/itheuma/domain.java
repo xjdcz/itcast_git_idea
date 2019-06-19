@@ -6,6 +6,7 @@ public class domain {
     private String adress;
 
     private Integer dd;
+    private  Integer ddd;
 
     //主线开发
 }
